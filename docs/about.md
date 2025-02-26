@@ -1,8 +1,8 @@
-# About
+# About Potatoes
 
-## What is mdBook?
+## What are potatoes?
 
-> "mdBook is a utility to create modern online books from Markdown files"
+> "something to eat"
 
 
 ## Resources
